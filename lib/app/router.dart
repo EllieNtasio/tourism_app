@@ -3,7 +3,6 @@ import 'package:go_router/go_router.dart';
 
 import '../features/home/presentation/home_screen.dart';
 
-/// Route paths, kept in one place so screens never hard-code strings.
 abstract final class AppRoutes {
   static const home = '/';
 }

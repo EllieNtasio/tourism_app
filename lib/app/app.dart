@@ -3,7 +3,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'router.dart';
 
-/// Root widget of the app.
 class TourismApp extends ConsumerWidget {
   const TourismApp({super.key});
 
